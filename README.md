@@ -46,3 +46,4 @@ chmod +x scripts/01-basics/*.sh
 ./scripts/01-basics/health-check.sh https://example.com
 ./scripts/01-basics/disk-alert.sh
 ```
+# Practiced the branch -> PR -> merge workflow
